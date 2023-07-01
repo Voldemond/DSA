@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Lifo {
+public class Stack {
 	public static void main(String []args) {
 		Stack<String> stack = new Stack<String>();
 		stack.push("Minecraft");
