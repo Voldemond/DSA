@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LLNode {
+public class LinkedList {
 	public static void main (String args[]) {
 		
 		/*
