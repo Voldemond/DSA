@@ -5,7 +5,7 @@ public class DArray {
 	
 //	ArrayList<String> arraylist = new  ArrayList<String>();
 	DynamicArray dynamicArray = new DynamicArray(5);
-//	System.out.println(dynamicArray.capacity);
+//	System.out.println(dynamicArray.capacity); this is a main java file for dynamic arrays
 	
 	dynamicArray.add("A");
 	dynamicArray.add("B");
