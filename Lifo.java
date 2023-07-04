@@ -22,5 +22,8 @@ public class Stack {
 //				stores objects into a sort of "vertical tower"
 //				push() to add to the top
 //				pop() to remove from the top
+		//real life examples 
+		//undo /redo
+		//browser history
 	}
 }
