@@ -1,4 +1,4 @@
-# DSA
+
 # Data Structures and Algorithms (DSA) Practice with Java
 This repository contains my practice implementations of various data structures and algorithms using Java. The purpose of this repository is to enhance my understanding of DSA concepts and improve my problem-solving skills.
 
