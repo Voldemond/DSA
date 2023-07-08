@@ -58,7 +58,7 @@ When contributing, please ensure the following:
 Clearly describe the problem or improvement.
 Provide well-commented, clean, and properly formatted code.
 Add appropriate tests and documentation, if applicable.
-License
+License:-
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository for personal and commercial purposes.
 
 Happy DSA practice! If you have any questions or need further assistance, please don't hesitate to reach out.
