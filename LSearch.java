@@ -11,7 +11,7 @@ public class LSearch {
 //							Advantages :
 //							Fast for searches of small to medium data sets
 //							Does not need to sorted
-//							Useful for data structures that do not have random access (Linked List)
+//							Useful for data structures that do not have random access (Linked List).
 		int [] array = { 
 			1,9,2,6,3,4,7	
 		};
