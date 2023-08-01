@@ -2,7 +2,7 @@ public class main {
 
 	public static void main(String[] args) {
 		
-		// Breadth FS = Traverse a graph level by level
+		// Breadth FS = Traverse a graph level by level..
 		//			   Utilizes a Queue
 		//			   Better if destination is on average close to start
 		//			   Siblings are visited before children
